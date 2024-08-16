@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciências da computação** no <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjC6Nz0o4CDAxVKkZUCHdVsDrEQFnoECAcQAQ&url=https%3A%2F%2Fwww.ufpe.br%2F&usg=AOvVaw1V-GL9GZujipQNze3v1Hz3&opi=89978449">UFPE</a>.
-- 💼 Trabalhando como **Data Engineer** na <a href="www.gringo.com.vc">Gringo</a>
+- 💼 Me especializando como **Data Engineer**
 - 🌱 &nbsp; Aprendendo mais sobre **Google Cloud Platform**.
 
 <h3>Minhas Skills</h3>
